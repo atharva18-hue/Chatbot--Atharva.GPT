@@ -12,64 +12,68 @@ Interactive gradient UI, sleek chat bubbles – fast, friendly & smart.
 
 ---
 
-## 🔹 Features
+##  Features
 
-- 💬 Real-time AI chat with interactive bubbles  
-- 🎨 Gradient backgrounds and responsive design  
-- 🖥️ Frontend: HTML, CSS, JavaScript for sleek UX  
-- 🤖 Backend: Flask + OpenAI GPT-3.5 for intelligent replies  
-- ⚡ Fast, friendly, concise assistant  
-- 🔒 API key configurable via environment variables  
-
----
-
-## 🛠️ Tech Stack
-
-- **Backend:** Python, Flask 🐍  
-- **AI Engine:** OpenAI GPT-3.5 🤖  
-- **Frontend:** HTML, CSS, JavaScript 🎨  
-- **Deployment:** Localhost / Flask dev server 💻  
-- **UI Design:** Gradient effects, responsive chat interface 🌈  
+-  Real-time AI chat with interactive bubbles  
+-  Gradient backgrounds and responsive design  
+-  Frontend: HTML, CSS, JavaScript for sleek UX  
+-  Backend: Flask + OpenAI GPT-3.5 for intelligent replies  
+-  Fast, friendly, concise assistant  
+-  API key configurable via environment variables  
 
 ---
 
-## ⚡ Setup Instructions
+##  Tech Stack
+
+- **Backend:** Python, Flask 
+- **AI Engine:** OpenAI GPT-3.5  
+- **Frontend:** HTML, CSS, JavaScript   
+- **Deployment:** Localhost / Flask dev server 
+- **UI Design:** Gradient effects, responsive chat interface  
+
+---
+
+##  Setup Instructions
 
 ### Clone repository
-```bash
 git clone https://github.com/atharva18-hue/Chatbot--Atharva.GBT.git
 cd Chatbot--Atharva.GBT
-Create virtual environment
-bash
-Copy code
+
+------------------------------------------------------------------------------------------------
+
+## Create virtual environment
 python -m venv venv
+
+-----------------------------------------------------------------------------------------------
+
 # Windows
 .\venv\Scripts\activate
-# Mac/Linux
-source venv/bin/activate
-Install dependencies
-bash
-Copy code
-pip install -r requirements.txt
-Set OpenAI API Key
-Create .env in root:
 
-env
-Copy code
+------------------------------------------------------------------------------------------------
+
+## Install dependencies
+pip install -r requirements.txt
+
+------------------------------------------------------------------------------------------------
+
+## Set OpenAI API Key
+Create .env in root:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 Or set in app.py (not recommended for public repos)
 
-Run the application
-bash
-Copy code
+------------------------------------------------------------------------------------------------
+
+## Run the application
 python app.py
-Open in browser
-cpp
-Copy code
+
+------------------------------------------------------------------------------------------------
+
+## Open in browser
 http://127.0.0.1:5000
-📂 Project Structure
-cpp
-Copy code
+
+------------------------------------------------------------------------------------------------
+
+## project structure
 impressive-chatbot/
 ├── app.py
 ├── requirements.txt
@@ -82,13 +86,21 @@ impressive-chatbot/
     │   └── style.css
     └── js/
         └── app.js
-💬 Usage Flow
-1️⃣ Open web app in browser
-2️⃣ Type message in input box
-3️⃣ Press Send or Enter
-4️⃣ Receive intelligent AI responses with sleek UI
 
-✨ Highlights
+------------------------------------------------------------------------------------------------
+
+ ## Usage Flow
+Open web app in browser
+
+Type message in input box
+
+Press Send or Enter
+
+Receive intelligent AI responses with sleek UI
+
+------------------------------------------------------------------------------------------------
+
+## Highlights
 Full frontend + backend stack in action
 
 Gradient color chat interface + interactive bubbles
@@ -97,16 +109,22 @@ Real-time AI responses powered by OpenAI GPT-3.5
 
 Easy to extend for advanced features
 
-⚠️ Notes
+------------------------------------------------------------------------------------------------
+
+## Notes
 Development server only
 
 Keep .env for secret API keys
 
 Do not push OpenAI API keys to public repos
 
-👤 Author
+------------------------------------------------------------------------------------------------
+
+## Author
 Atharva Chavhan
 
 GitHub: atharva18-hue
 
 Email: atharvachavhan18@gmail.com
+
+------------------------------------------------------------------------------------------------
