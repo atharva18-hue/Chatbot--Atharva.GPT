@@ -1,4 +1,4 @@
-# <span style="background:linear-gradient(to right, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent;">🤖 Chatbot @Atharva.GBT</span>
+# <span style="background:linear-gradient(to right, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent;">🤖 Chatbot @Atharva.GPT</span>
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3-lightgrey?logo=flask&logoColor=black)](https://flask.palletsprojects.com/)
