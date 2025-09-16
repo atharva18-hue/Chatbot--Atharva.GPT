@@ -36,7 +36,7 @@ Interactive gradient UI, sleek chat bubbles – fast, friendly & smart.
 ##  Setup Instructions
 
 ### Clone repository
-git clone https://github.com/atharva18-hue/Chatbot--Atharva.GBT.git
+git clone https://github.com/atharva18-hue/Chatbot--Atharva.GPT.git
 cd Chatbot--Atharva.GBT
 
 ------------------------------------------------------------------------------------------------
