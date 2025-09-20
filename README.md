@@ -40,43 +40,36 @@ Interactive gradient UI, sleek chat bubbles – fast, friendly & smart.
 ## 💻 Setup & Installation
 
 1. **Clone the repository:**
-```bash
 git clone https://github.com/atharva18-hue/Chatbot--Atharva.GPT.git
 cd Chatbot--Atharva.GPT
-Create virtual environment:
-
-bash
-Copy code
+------------------------------------
+## Create virtual environment:
 python -m venv venv
-Windows:
 
-bash
-Copy code
+-------------------------------
+## Windows:
 .\venv\Scripts\activate
-Install dependencies:
 
-bash
-Copy code
+------------------------------------
+## Install dependencies:
 pip install -r requirements.txt
-Set OpenAI API Key:
-Create .env in root:
 
-ini
-Copy code
+-----------------------------------------------
+## Set OpenAI API Key:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 Or set directly in app.py (not recommended for public repos)
 
-Run the application:
-
-bash
-Copy code
+-----------------------------------------------
+## Run the application:
 python app.py
-Open in browser:
+
+---------------------------------------
+## Open in browser:
 http://127.0.0.1:5000
 
-🗂 Project Structure
-csharp
-Copy code
+----------------------------------------------
+## Project Structure
+
 Chatbot--Atharva.GPT/
 ├── app.py                 # Main Flask application
 ├── requirements.txt       # Python dependencies
@@ -89,7 +82,9 @@ Chatbot--Atharva.GPT/
     │   └── style.css      # Stylesheets
     └── js/
         └── app.js         # Frontend JS
-🚀 Usage Flow
+
+ ----------------------------------------------------------------------
+## Usage Flow
 Open web app in browser
 
 Type a message in input box
@@ -98,7 +93,8 @@ Press Send or Enter
 
 Receive intelligent AI responses in real-time with sleek UI
 
-📌 Highlights
+------------------------------------------------------------
+## Highlights
 Full frontend + backend stack in action
 
 Gradient color chat interface + interactive bubbles
@@ -107,17 +103,20 @@ Real-time AI responses powered by OpenAI GPT-3.5
 
 Easily extendable for advanced features
 
-⚠️ Notes
+-----------------------------------------------------
+## Notes
 Development server only
 
 Keep .env for secret API keys
 
 Do not push OpenAI API keys to public repos
 
-📜 License
+---------------------------------------------------------
+## License
 This project is licensed under the MIT License - see LICENSE for details.
 
-Contribution
+--------------------------------------------------
+## Contribution
 Fork the repository
 
 Create a feature branch (git checkout -b feature-name)
@@ -128,8 +127,14 @@ Push to the branch (git push origin feature-name)
 
 Open a Pull Request
 
-Contact
+-------------------------------------------------------------------------
+## Contact
 Author: Atharva Chavhan
+
 GitHub: atharva18-hue
+
 Email: atharvachavhan18@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/atharva-chavhan-b5742b259/
+
+------------------------------------------
