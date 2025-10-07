@@ -15,7 +15,7 @@ Interactive gradient UI, sleek chat bubbles – fast, friendly & smart.
 
 ## Project Screenshot
 
-<img width="1666" height="990" alt="Screenshot 2025-09-09 025934" src="https://github.com/user-attachments/assets/54f952ba-ff4f-4ca4-9a53-e994c8ae7174" />
+
 
 -------------------------------------------------------------------
 ## 🌟 Features
