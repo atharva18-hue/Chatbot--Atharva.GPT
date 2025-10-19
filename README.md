@@ -1,12 +1,6 @@
 
-# 🤖 Chatbot @Atharva.GPT
+#  Chatbot @Atharva.GPT
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.3-lightgrey?logo=flask&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A **real-time AI-powered chatbot** built with **Python**, **Flask**, **OpenAI GPT-3.5**, and modern **HTML/CSS/JS**.  
 Interactive gradient UI, sleek chat bubbles – fast, friendly & smart.
@@ -18,20 +12,20 @@ Interactive gradient UI, sleek chat bubbles – fast, friendly & smart.
 <img width="1919" height="965" alt="Screenshot 2025-10-07 064209" src="https://github.com/user-attachments/assets/ab471f27-59ef-4d69-abd2-f400eefa5ccc" />
 
 -------------------------------------------------------------------
-## 🌟 Features
+##  Features
 
 | Category | Description |
 |----------|-------------|
-| 💬 **Real-Time Chat** | Interactive AI chat with responsive bubbles |
-| 🎨 **UI/UX** | Gradient backgrounds, responsive design, sleek chat interface |
-| 🖥️ **Frontend** | HTML, CSS, JavaScript for polished user experience |
-| ⚙️ **Backend** | Flask + OpenAI GPT-3.5 for intelligent responses |
-| 🔑 **API Configurable** | OpenAI API key via environment variables |
-| 🚀 **Performance** | Fast, friendly, concise assistant |
+|  **Real-Time Chat** | Interactive AI chat with responsive bubbles |
+|  **UI/UX** | Gradient backgrounds, responsive design, sleek chat interface |
+|  **Frontend** | HTML, CSS, JavaScript for polished user experience |
+|  **Backend** | Flask + OpenAI GPT-3.5 for intelligent responses |
+|  **API Configurable** | OpenAI API key via environment variables |
+|  **Performance** | Fast, friendly, concise assistant |
 
 ---
 
-## ⚙️ Technology Stack
+##  Technology Stack
 
 | Technology | Role |
 |------------|------|
@@ -43,7 +37,7 @@ Interactive gradient UI, sleek chat bubbles – fast, friendly & smart.
 
 ---
 
-## 💻 Setup & Installation
+##  Setup & Installation
 
 1. **Clone the repository:**
 git clone https://github.com/atharva18-hue/Chatbot--Atharva.GPT.git
